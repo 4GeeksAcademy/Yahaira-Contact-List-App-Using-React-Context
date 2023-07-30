@@ -1,6 +1,6 @@
 import React from "react";
-//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-//import { faLocationDot, faPhoneFlip, faEnvelope, faPencil, faTrashCan } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLocationDot, faPhoneFlip, faEnvelope, faPencil, faTrashCan } from '@fortawesome/free-solid-svg-icons';
 import propTypes from "prop-types";
 
 //create your first component
