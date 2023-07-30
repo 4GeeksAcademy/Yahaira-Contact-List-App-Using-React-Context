@@ -1,7 +1,7 @@
 import React, {useContext, useEffect} from "react";
 import Contact from "../component/contact";
-import Modal from "../component/modal";
-import ConfirmationModal from "../component/confirmation-modal";
+import Modal from "../component/Modal";
+import ConfirmationModal from "../component/confirmation-modals";
 import {Context} from "../store/appContext";
 import "../../styles/home.css";
 import golden from "../../img/golden.jpg"
